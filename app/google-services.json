@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566299670261",
+    "project_id": "order-it-app-525a7",
+    "storage_bucket": "order-it-app-525a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566299670261:android:e89351fcfed4d9f1fbf7bc",
+        "android_client_info": {
+          "package_name": "com.example.canteenmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566299670261-al4vjkm6f9d1b7gam7gioi7f9fs4qiji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG1IeKdukwRwm4X9LqllHwdDr_5RDn-30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566299670261-al4vjkm6f9d1b7gam7gioi7f9fs4qiji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
